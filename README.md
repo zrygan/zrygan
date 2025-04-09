@@ -1,10 +1,12 @@
-**Zhean Ganituen** / `zrygan`
+### **Zhean Ganituen** / `zrygan`
 
 Contact: `zr<dot>gntn<at>gmail<dot>com`
+> I sadly do not have a website
 
-I work on **algorithms and cryptography** in C, C++, Python, Rust, Java, and Go.
-I also **tutor** and produce materials for these using LaTeX, PGF, TikZ, and Manim.
-I also _sometimes_ dabble on programming languages.
+I work on **algorithms and cryptography** in C, C++, Python, Rust, Java, and Go. <br>
+I also **tutor** and produce materials for these using LaTeX, PGF, TikZ, and Manim. <br>
+I also _sometimes_ dabble on programming languages. <br>
+I heavily despise JavaScript and verbose syntax in programming languages (Java).
 
 Projects I am currently working on:
 - [Raytracer](https://github.com/zrygan/raytracer)
