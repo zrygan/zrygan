@@ -1,16 +1,19 @@
-## Hi there 👋
+**Zhean Ganituen** / `zrygan`
 
-<!--
-**zrygan/zrygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact: `zr<dot>gntn<at>gmail<dot>com`
 
-Here are some ideas to get you started:
+I work on **algorithms and cryptography** in C, C++, Python, Rust, Java, and Go.
+I also **tutor** and produce materials for these using LaTeX, PGF, TikZ, and Manim.
+I also _sometimes_ dabble on programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I am currently working on:
+- [Raytracer](https://github.com/zrygan/raytracer)
+- [Persistent Data Structures](https://github.com/zrygan/tt/tree/main/DSA%202/Data%20Structures)
+
+Things I am learning right now:
+- Bioinformatics
+
+Here are my best projects:
+- [Raytracer](https://github.com/zrygan/raytracer)
+- [The tt](https://github.com/zrygan/tt)
+- Case Study on Tagalog and Bikol languages using theory of computation. [Paper](https://github.com/zrygan/Filipino-Case-Study), [Source](https://github.com/zrygan/LanguageTool-Case-Study)
