@@ -1,7 +1,7 @@
 ### **Zhean Ganituen** / `zrygan`
 
 Contact: `zr<dot>gntn<at>gmail<dot>com` <br>
-Personal Website and Blog: [`zrygan.github.io`](zrygan.github.io)
+Personal Website and Blog: [`zrygan.github.io`](https://zrygan.github.io/)
 
 I work on **algorithms and cryptography** in C, C++, Python, Rust, Java, and Go. <br>
 I also **tutor** and produce materials for these using LaTeX, PGF, TikZ, and Manim. <br>
