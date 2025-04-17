@@ -8,6 +8,8 @@ I also **tutor** and produce materials for these using LaTeX, PGF, TikZ, and Man
 I also _sometimes_ dabble on programming languages. <br>
 I heavily despise JavaScript and verbose syntax in programming languages (Java).
 
+I don't like coding, I love [theoretical computer science](https://www.sciencedirect.com/journal/theoretical-computer-science). I am sadly, stuck doing coding.
+
 Projects I am currently working on:
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [Persistent Data Structures](https://github.com/zrygan/tt/tree/main/DSA%202/Data%20Structures)
@@ -19,5 +21,3 @@ Here are my best projects:
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [The tt](https://github.com/zrygan/tt)
 - Case Study on Tagalog and Bikol languages using theory of computation. [Paper](https://github.com/zrygan/Filipino-Case-Study), [Source](https://github.com/zrygan/LanguageTool-Case-Study)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zrygan)](https://github.com/zrygan/github-readme-stats)
