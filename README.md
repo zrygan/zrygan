@@ -22,5 +22,3 @@ Here are my best projects:
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [The tt](https://github.com/zrygan/tt)
 - Case Study on Tagalog and Bikol languages using theory of computation. [Paper](https://github.com/zrygan/Filipino-Case-Study), [Source](https://github.com/zrygan/LanguageTool-Case-Study)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrygan)](https://github.com/zrygan/github-readme-stats)
