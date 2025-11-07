@@ -27,5 +27,5 @@ Things I am learning right now:
 
 My best projects are:
 - [Raytracer](https://github.com/zrygan/raytracer)
-- Case Study on Tagalog and Bikol languages using theory of computation. [Paper](https://github.com/zrygan/Filipino-Case-Study), [Source](https://github.com/zrygan/LanguageTool-Case-Study). This work is also (to be) presented at IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/)) at Santa Clara University.
+- Case Study on Tagalog and Bikol languages using theory of computation. [Paper](https://github.com/zrygan/Filipino-Case-Study), [Source](https://github.com/zrygan/LanguageTool-Case-Study). This work is was presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/)) at Santa Clara University, and was presented at the 28th International Conference on Oriental COCOSDA at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia will be (as of writing this) in the conference proceedings available at IEEEXplore.
 - Semantic and Orthographic Drug Similarity by unsupervised learning and bigram similarity. [`SemanticDrugSim`](https://github.com/Mango-Cats/SemanticDrugSim)
