@@ -1,4 +1,4 @@
-### **Zhean Ganituen** / `zrygan`
+### zrygan
 
 Personal: `zr<dot>gntn<at>gmail<dot>com` <br>
 Academic: `zhean_robby_ganituen<at>dlsu<dot>edu<dot>ph` <br>
@@ -12,10 +12,10 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 
 ---
 
-Projects I am currently working on:
+#### current projects
 - TagaBaybay (private; will be made public soon)
 
-My previous projects:
+#### past (but unforgotten) projects
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [Symbolang](https://github.com/zrygan/symbolang)
 - Tagalog and Bikol Grammar Checking via Attribute Grammars [will update this soon with IEEEXplore link], [Source](https://github.com/zrygan/LanguageTool-Case-Study)*.
