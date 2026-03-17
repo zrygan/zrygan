@@ -18,7 +18,7 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 #### past (but unforgotten) projects
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [Symbolang](https://github.com/zrygan/symbolang)
-- Tagalog and Bikol Grammar Checking via Attribute Grammars [will update this soon with IEEEXplore link], [Source](https://github.com/zrygan/LanguageTool-Case-Study)*.
+- Tagalog and Bikol Grammar Checking via Attribute Grammars ([Paper](https://ieeexplore.ieee.org/abstract/document/11385074/), [Repository](https://github.com/zrygan/LanguageTool-Case-Study)*.
 
 I am also currently working on my undergraduate thesis. See [this organization](https://github.com/Mango-Cats).
 
