@@ -13,7 +13,7 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 ---
 
 #### current projects
-- TagaBaybay (private; will be made public soon)
+- [TagaBaybay](https://github.com/Mango-Cats/tagabaybay)
 
 #### past (but unforgotten) projects
 - [Raytracer](https://github.com/zrygan/raytracer)
