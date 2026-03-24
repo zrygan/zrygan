@@ -15,11 +15,11 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 #### current projects
 - [TagaBaybay](https://github.com/Mango-Cats/tagabaybay)
 
-#### past (but unforgotten) projects
+#### past (not *forgotten*) projects
 - [Raytracer](https://github.com/zrygan/raytracer)
 - [Symbolang](https://github.com/zrygan/symbolang)
-- Tagalog and Bikol Grammar Checking via Attribute Grammars ([Paper](https://ieeexplore.ieee.org/abstract/document/11385074/), [Repository](https://github.com/zrygan/LanguageTool-Case-Study)*.
+- Tagalog and Bikol Grammar Checking via Attribute Grammars ([Paper](https://ieeexplore.ieee.org/abstract/document/11385074/), [Repository](https://github.com/zrygan/LanguageTool-Case-Study)).*
 
 I am also currently working on my undergraduate thesis. See [this organization](https://github.com/Mango-Cats).
 
->  Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, and the 28th International Conference on Oriental COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
+> \*Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, and the 28th International Conference on Oriental COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
