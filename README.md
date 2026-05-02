@@ -15,6 +15,7 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 #### current projects
 - [pho](https://github.com/Mango-Cats/pho/)
 - [walter](https://github.com/Mango-Cats/walter/)
+- [ginger](https://github.com/Mango-Cats/ginger/)
 
 #### on hold
 - [Raytracer](https://github.com/zrygan/raytracer)
