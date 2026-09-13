@@ -23,9 +23,10 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 
 ### finished projects
 > <details><summary><i>are projects truly <b>finished</b>?</i></summary>i have done everything i wanted for these projects. but that doesn't mean it is finished. i have left these projects under an open-source license so that those interested can tinker or contribute to it.</details>
-- Tagalog and Bikol Grammar Checking via Attribute Grammars ([Paper](https://ieeexplore.ieee.org/abstract/document/11385074/), [Repository](https://github.com/zrygan/LanguageTool-Case-Study)).*
-- TagaBaybay ([Repository](https://github.com/Mango-Cats/tagabaybay))
+- Tagalog and Bikol Grammar Checking via Attribute Grammars ([IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11385074/), [GitHub Repository](https://github.com/zrygan/LanguageTool-Case-Study)).*
+- TagaBaybay ([Project Webpage](https://mango-cats.github.io/tagabaybay-docs/web/); IEEEXplore (forthcoming); [Repository](https://github.com/Mango-Cats/tagabaybay)).**
 
 I am also currently working on my undergraduate thesis. See [this organization](https://github.com/Mango-Cats).
 
-> \*Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, and the 28th International Conference on Oriental COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
+> \*Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, Santa Clara, California, United States and the 28th International Conference on Oriental-COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
+> \*\***(to be)** Presented at the 2026 IEEE Region 10 Conference ([TENCON](https://tencon2026.ieee.id/)), at InterContinental Bali Resort, Bali, Indonesia, from 10–13 October 2026.
