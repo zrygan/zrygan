@@ -24,7 +24,7 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 ### finished projects
 > <details><summary><i>are projects truly <b>finished</b>?</i></summary>i have done everything i wanted for these projects. but that doesn't mean it is finished. i have left these projects under an open-source license so that those interested can tinker or contribute to it.</details>
 - Tagalog and Bikol Grammar Checking via Attribute Grammars ([IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11385074/), [GitHub Repository](https://github.com/zrygan/LanguageTool-Case-Study)).*
-- TagaBaybay ([Project Webpage](https://mango-cats.github.io/tagabaybay-docs/web/); IEEEXplore (forthcoming); [Repository](https://github.com/Mango-Cats/tagabaybay)).**
+- TagaBaybay ([Project Webpage](https://mango-cats.github.io/tagabaybay-docs/web/), IEEEXplore (forthcoming), [Repository](https://github.com/Mango-Cats/tagabaybay)).**
 
 I am also currently working on my undergraduate thesis. See [this organization](https://github.com/Mango-Cats).
 
