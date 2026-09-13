@@ -28,5 +28,5 @@ Unlike, majority of the computer science population, _I am not an aspiring softw
 
 I am also currently working on my undergraduate thesis. See [this organization](https://github.com/Mango-Cats).
 
-> \*Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, Santa Clara, California, United States and the 28th International Conference on Oriental-COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
+> \*Presented at 2025 IEEE International Symposium on Technology and Society ([ISTAS](https://attend.ieee.org/istas-2025/program/#Sep-12-tab)) at Santa Clara University, Santa Clara, California, United States and the 28th International Conference on Oriental-COCOSDA ([O-COCOSDA 2025](https://ococosda2025.id/)) at Universitas Kristen Duta Wacana, Yogyakarta, Indonesia. <br>
 > \*\***(to be)** Presented at the 2026 IEEE Region 10 Conference ([TENCON](https://tencon2026.ieee.id/)), at InterContinental Bali Resort, Bali, Indonesia, from 10–13 October 2026.
